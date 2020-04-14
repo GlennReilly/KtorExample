@@ -1,12 +1,9 @@
 /workspace.xml
 *.iml
-.gradle
+.gradle**
 /local.properties
-/.idea/caches/build_file_checksums.ser
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
 .DS_Store
-/build
+build**
+.idea**
 /captures
 .externalNativeBuild
